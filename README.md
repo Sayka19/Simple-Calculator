@@ -1,1 +1,1 @@
-# Simple-Calculator
+This is a simple calculator program written in C that performs basic arithmetic operations such as addition, subtraction, multiplication, and division,modulus,power. The program takes user input for the operands and the operation to be performed, then displays the result.
